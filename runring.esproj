@@ -1,0 +1,36 @@
+studioVersion:
+  major: 5
+  minor: 1
+  patch: 1
+  build: 24092500
+updateCheckpoint: 48
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+viewConfig:
+  simulation:
+    device: Spectacles (2024)
+    cameraFov: nan
+    fullFrameAspect: 0.666660
+    viewport: Maximized
+    output: Live
+    stereoOutputEye: Center
+    deviceTypeOverride: Unknown
+  cameraType: Back
+metaInfo:
+  hints:
+    []
+  tags:
+    []
+  lensName: Material Editor
+  lensDescriptors:
+    []
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Spectacles
+  iconHash: faaa20bf8e69173a41df8b45175f0cc9
+  videoPreviewHash: ""
+  fromTemplateName: Material Editor
+  fromTemplateUrl: Lens Studio 5.1.1.24092500
+  activationCamera: Rear
+  sourceMapEnabled: false

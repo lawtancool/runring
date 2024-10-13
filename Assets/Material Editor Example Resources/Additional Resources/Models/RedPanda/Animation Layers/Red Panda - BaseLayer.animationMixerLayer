@@ -1,0 +1,17 @@
+- !<AnimationMixerLayer/8c9a741f-31c5-44ee-997e-fc14e07a34cd>
+  PackagePath: ""
+  Layer: BaseLayer
+  Name: BaseLayer
+  Weight: 1.000000
+  SpeedRatio: 1.000000
+  From: 0.000000
+  To: 6.666667
+  Offset: 0.000000
+  FPS: 30.000000
+  NumCycles: -1
+  Reversed: false
+  Disabled: false
+  PostInfinity: Cycle
+  BlendMode: Additive
+  ScaleMode: Multiply
+  RangeType: TimeInSeconds

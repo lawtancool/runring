@@ -1,0 +1,44 @@
+- !<AssetImportMetadata/1577c720-5d54-4c7d-9017-a755aba430de>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 9cdb089a-b033-4846-8fc2-713987546b46
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 9cdb089a-b033-4846-8fc2-713987546b46
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> 837befde-ea6f-4180-9e4b-d5e74335caa9
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/c46d4cac-cfb6-4efe-bc64-8e374c872e30>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/837befde-ea6f-4180-9e4b-d5e74335caa9>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    fallingSpeedMax: false
+    fallingSpeedMin: false
+    objectPrefab: false
+    spawnFrequency: false
+    spawnRandomizer: false
+    spawnRange: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - objectPrefab: !<reference.ObjectPrefab> c075ae37-f298-438e-9615-d2477d216f1b
+      spawnFrequency: !<float> 0.000000
+      spawnRandomizer: !<float> 0.000000
+      spawnRange: !<float> 0.000000
+      fallingSpeedMin: !<float> 0.000000
+      fallingSpeedMax: !<float> 0.000000
+  ScriptTypes:
+    -
+      {}
